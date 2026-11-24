@@ -1,0 +1,3 @@
+stage,policy,selected_count,contact_cost_gbp,repeat_purchase_rate,spend_per_selected_gbp,captured_spend_share,cohort_coverage,eligible_coverage
+development_aug,baseline_monetary,200,400.0,0.735,1132.5272,0.5175953868253909,0.070298769771529,0.070298769771529
+development_aug,cluster_policy,200,400.0,0.41,575.16355,0.26286520990411094,0.070298769771529,0.070298769771529

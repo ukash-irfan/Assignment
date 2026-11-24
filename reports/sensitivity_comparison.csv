@@ -1,0 +1,3 @@
+representation,k,inertia,silhouette,min_cluster_size,max_cluster_size,cluster_sizes,setting
+log1p_scaled,4,2560.91339762704,0.37599969913792686,371,1236,"{0: 834, 1: 371, 2: 1236, 3: 404}",uncapped
+log1p_scaled,4,2529.7798569897896,0.37846259025633616,374,1236,"{0: 397, 1: 838, 2: 374, 3: 1236}",capped_p99_11495.04
